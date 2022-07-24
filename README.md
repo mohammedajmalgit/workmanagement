@@ -1,2 +1,2 @@
 # workmanagementtool
-https://mohammedajmalgit.github.io/workmanagement/
+https://mohammedajmalgit.github.io/workmanagementtool/
